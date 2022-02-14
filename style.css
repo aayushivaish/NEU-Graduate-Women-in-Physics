@@ -34,7 +34,7 @@ img {
 }
 
 .logo{
-	height: 9rem !important;
+	max-height: 9rem !important;
 }
 p {
 	color: black;
